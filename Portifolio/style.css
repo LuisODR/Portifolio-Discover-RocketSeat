@@ -168,8 +168,14 @@ footer {
 }
 
 #Links-box {
-
     width: 422px;
+}
 
-
+@keyframes slide-in {
+    from {
+        left: 0;
+    } to {
+        left: 50%;
+        
+    }
 }
