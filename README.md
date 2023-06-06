@@ -6,5 +6,5 @@ Programa gratuito promovido pela Rocketseat para ensino de tecnologias WEB, dese
 Veja o resultado em: https://luisodr.github.io/Portifolio-Discover-RocketSeat/
 
 <p align="center">
-    <img alt="Preview" src=".github/Preview.jpg" width="100%">
+    <img alt="Preview" src=".github/Preview.png" width="100%">
     </p>
