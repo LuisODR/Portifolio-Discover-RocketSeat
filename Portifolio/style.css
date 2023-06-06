@@ -78,31 +78,24 @@ p {
     background: white var(--switch-bg-url) no-repeat center;
     border: var(--stroke-color);
     border-radius: 50%;
-
+    left: 0;
     position: absolute;
     top: 50%;
-    right: 0;
     z-index: 2;
     transform: translateY(-50%);
-    transition: .2s;
+    transition: left .4s;
 }
 
 .light #Switch-Light button {
-    left: 0;
-    right: initial;
+    /* animation: slide-in .4s; */
+    left: 50%;
 }
 
 #Switch-Light button:hover {
     box-shadow: 0 0 5px 5px var(--stroke-color);
     width: 32px;
     height: 32px;
-
-
-
-
-
     border: var(--stroke-color);
-
 }
 
 #Switch-Light span {
